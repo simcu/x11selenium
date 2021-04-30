@@ -19,6 +19,6 @@ SecretStorage==2.3.1
 selenium==3.141.0
 six==1.11.0
 unattended-upgrades==0.1
-urllib3==1.25.7
+urllib3==1.25.8
 Werkzeug==0.16.0
 pytz==2019.3
